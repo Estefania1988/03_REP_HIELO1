@@ -34,7 +34,11 @@
 					<img src="images/slide01.jpg" alt="" />
 					<div class="inner">
 						<header>
-							<p>A free responsive web site template by <a href="https://templated.co">TEMPLATED</a></p>
+<<<<<<< HEAD
+							<p>Siente la mirada del <a href="https://templated.co">TEMPLATED</a></p>
+=======
+							<p>Vive la expriencia de sentir el  <a href="https://templated.co">HIELO</a></p>
+>>>>>>> 03e27fdd1f5948beb54996cef3c8951f0cdd3744
 							<h2>Hielo</h2>
 						</header>
 					</div>
